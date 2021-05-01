@@ -1,0 +1,1314 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n\n\nWhere does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n\nWhere can I get some?\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "author": "Adebayo",
+      "id": 1
+    },
+    {
+      "title": "Opening Party!",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n\n\nWhere does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n\nWhere can I get some?\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "author": "Adams",
+      "id": 2
+    },
+    {
+      "author": "Ade",
+      "body": "\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "title": "How to run react functions",
+      "id": 3
+    },
+    {
+      "author": "Ade",
+      "body": "this is the blog",
+      "title": "hello",
+      "id": 5
+    },
+    {
+      "author": "Ade",
+      "body": "\n\n\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"",
+      "title": "The standard Lorem Ipsum passage, used since the 1500s",
+      "id": 6
+    },
+    {
+      "author": "Ade",
+      "body": "\"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?\"",
+      "title": "1914 translation by H. Rackham",
+      "id": 10
+    },
+    {
+      "author": "lee",
+      "body": "\"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.\"",
+      "title": "\"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?\"",
+      "id": 11
+    },
+    {
+      "author": "lee",
+      "body": "\"On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.\"",
+      "title": "1914 translation by H. Rackham",
+      "id": 12
+    }
+  ],
+  "countries": [
+    {
+      "country": "Afghanistan",
+      "application form src": "https://www.afghanistanembassy.no/wp-content/uploads/2017/03/visa_application_form.pdf",
+      "VAC": "PMB 5145, Wuse - zone 3, Abuja, Nigeria",
+      "Visa Free": "No",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Algeria",
+      "application form src": "https://cdn.naijagoingabroad.com/wp-content/uploads/20210426124540/algeriavisa.pdf",
+      "VAC": "Plot 1398 Honorable Justice Mamman Nasir Street, Asokoro District, Abuja, Nigeria",
+      "Visa Free": "No",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Angola",
+      "application form src": "https://cdn.naijagoingabroad.com/wp-content/uploads/20210426121841/Angola-application-form.pdf",
+      "VAC": "321 Diplomatic Dr, Central Business District, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Argentina",
+      "application form src": "https://cdn.naijagoingabroad.com/wp-content/uploads/20210426121036/FSV-2020-English.pdf",
+      "VAC": "30 Nelson Mandela St, Asokoro, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Australia",
+      "application form src": "https://online.immi.gov.au/lusc/login",
+      "VAC": "VFS",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Austria",
+      "application form src": "https://visa.vfsglobal.com/one-pager/austria/nigeria/english/pdf/form.pdf",
+      "VAC": "VFS",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Azerbaijan",
+      "application form src": "https://www.azerbaijanimmigration.com/login",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Bahamas",
+      "application form src": "http://forms.bahamas.gov.bs/documents/MOFA_Bahamian%20Visa%20application.pdf",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Bahrain",
+      "application form src": "https://www.evisa.gov.bh/VisaBhr6En.html",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Bangladesh",
+      "application form src": "http://www.bhcnigeria.org.ng/Downloads/Editable_MRP_Application_Form.pdf",
+      "VAC": "2069 Hassan Usman Katsina St, Asokoro, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Barbados",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "Yes",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Belarus",
+      "application form src": "https://nigeria.mfa.gov.by/uploademb/nigeria/application_form.doc",
+      "VAC": "Plot 2148, 1866 Deng Xiaoping, Asokoro, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Belgium",
+      "application form src": "https://visaonweb.diplomatie.be/",
+      "VAC": "VFS",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Belize",
+      "application form src": "http://www.consulateofbelizeng.org/files/Visa_Form.pdf",
+      "VAC": "No. 22 Aguiyi Ironsi St, Maitama 900271, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Benin",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "yes",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Bosnia And Herzegovina",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Botswana",
+      "application form src": "http://www.botswanaembassy.org/sites/default/files/documents/visa_application_form.pdf",
+      "VAC": "Oguta Lake St, Maitama 900271, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Brazil",
+      "application form src": "https://formulario-mre.serpro.gov.br/",
+      "VAC": "Plot 257 Kofo Abayomi Street, Victoria Island",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Bulgaria",
+      "application form src": "",
+      "VAC": "18 Walter Carrington Cres, Eti-Osa, Lagos",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Burkina Faso",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "yes",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Burundi",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": "Yes"
+    },
+    {
+      "country": "Cambodia",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": "yes"
+    },
+    {
+      "country": "Cameroon",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "yes",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Canada",
+      "application form src": "https://www.canada.ca/en/services/immigration-citizenship.html",
+      "VAC": "VFS",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Cape Verde",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "yes",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Cayman Islands",
+      "application form src": "http://www.immigration.gov.ky/portal/page/portal/ver-9/immhome/help/forms/visa/V1%20-%20Visa%20-%20General%20Visitor%20-%20Application%20Form.pdf",
+      "VAC": "ABB Lummus Global, Unit 6, Jefia State, 62 Enerhen Road Warri Delta State Nigeria",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Chad",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "yes",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Chile",
+      "application form src": "N/A",
+      "VAC": "N/A",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "China",
+      "application form src": "http://lagos.china-consulate.org/eng/qz/afd/P020130822029400862430.pdf",
+      "VAC": "Plot 161A, Idejo Street, P.O.71510,Victoria Island,Lagos, Nigeria",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Colombia",
+      "application form src": "https://tramitesmre.cancilleria.gov.co/tramites/enlinea/solicitarVisa.xhtml",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Congo",
+      "application form src": "https://cdn.naijagoingabroad.com/wp-content/uploads/20210426120614/Visa-application-congo.pdf",
+      "VAC": "5 Malabo St, Victoria Island, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Comoros Islands",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": "yes"
+    },
+    {
+      "country": "Costa Rica",
+      "application form src": "https://cdn.naijagoingabroad.com/wp-content/uploads/20210426124601/costa-rica-application-form.pdf",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Cook Islands",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "yes",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Cote D'ivoire",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "yes",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Croatia",
+      "application form src": "http://www.mvep.hr/en/consular-information/visas/forms/visa-application/",
+      "VAC": "VFS",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Cuba",
+      "application form src": "https://cdn.naijagoingabroad.com/wp-content/uploads/20210426125922/Cuba-visa-form.pdf",
+      "VAC": "Plot 339, Diplomatic Drive, Central Area Distric, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Cyprus",
+      "application form src": "",
+      "VAC": "Consulate in Lagos, Nigeria A. G. Leventis Building Iddo House,Oyingbo, Ebut-Metta Lagos Nigeria",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Czech Republic",
+      "application form src": "https://cdn.naijagoingabroad.com/wp-content/uploads/20210426131347/czech-republic-form.docx",
+      "VAC": "5 Gnassingbe, Gnassingbe Eyadema St, Asokoro, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Denmark",
+      "application form src": "ApplyVisa (um.dk)",
+      "VAC": "VFS",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Djibouti",
+      "application form src": "https://cdn.naijagoingabroad.com/wp-content/uploads/20210426133343/djibouti_visa_form.pdf",
+      "VAC": "54, Waherehouse Road, Apapa Lagos, Nigeria",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Dominica",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "yes",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Ecuador",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "yes",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Egypt",
+      "application form src": "https://cdn.naijagoingabroad.com/wp-content/uploads/20210426134801/egypt-visa-form.pdf",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "El Salvador",
+      "application form src": "https://cdn.naijagoingabroad.com/wp-content/uploads/20210426135210/el-salvador-application-form.pdf",
+      "VAC": "N/A",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Equatorial Guinea",
+      "application form src": "https://cdn.naijagoingabroad.com/wp-content/uploads/20210426135643/Equatorial-Guinea-visa-form.pdf",
+      "VAC": "7 Bank Road Ikoyi Lagos Nigeria",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Eritrea",
+      "application form src": "https://cdn.naijagoingabroad.com/wp-content/uploads/20210426140324/eriteria-visa-form.pdf",
+      "VAC": "987, Yedseram Cres, Maitama 900271, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Estonia",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Ethiopia",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": "yes"
+    },
+    {
+      "country": "Faroe Islands",
+      "application form src": "https://nigeria.um.dk/",
+      "VAC": "VFS Denmark",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Fiji",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "yes",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Finland",
+      "application form src": "https://finlandvisa.fi/",
+      "VAC": "VFS",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "France",
+      "application form src": "https://france-visas.gouv.fr/en_US/",
+      "VAC": "VFS",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Gabon",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "yes",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Gambia",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "yes",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Georgia",
+      "application form src": "https://www.geoconsul.gov.ge/ka",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Germany",
+      "application form src": "https://videx.diplo.de/videx/desktop/index.html#start",
+      "VAC": "15, Walter Carrington Crescent, Victoria Island",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Ghana",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "yes",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Greece",
+      "application form src": "https://www.vfsglobal.com/greece/jordan/pdf/Application_form_040213.pdf",
+      "VAC": "VFS",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Guinea",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "yes",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Guinea-bissau",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "yes",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Guyana",
+      "application form src": "https://cdn.naijagoingabroad.com/wp-content/uploads/20210426143039/GUYANA_VISA_APPLICATION_FORM.pdf",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Haiti",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "yes",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Honduras",
+      "application form src": "https://www.visas.inis.gov.ie/AVATS/OnlineHome.aspx",
+      "VAC": "Address No. 61, Jose Marti Crescent, Asokoro Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Hong Kong",
+      "application form src": "https://portal.immigration.gov.ng/visa/freshVisa",
+      "VAC": "Plot 302-303 A.O.Central Area Abuja Nigeria",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Hungary",
+      "application form src": "https://abuja.mfa.gov.hu/assets/87/84/87/9da4b03eacad22ff485632f972713e985de54007.pdf",
+      "VAC": "11 River Niger Street, Maitama, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Iceland",
+      "application form src": "http://utl.is/files/Eydublod/Schengen_Visa_Form_(IS)_EN.pdf",
+      "VAC": "54 T. Y. Danjuma St, Asokoro, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "India",
+      "application form src": "https://indianvisaonline.gov.in/",
+      "VAC": "8A, WALTER CARRINGTON, CRESCENT, V.I., LAGOS",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Indonesia",
+      "application form src": "https://kemlu.go.id/download/L1NoYXJlZCUyMERvY3VtZW50cy9JbmRvbmVzaWElMjB2aXNhJTIwYXBwbGljYXRpb24lMjAlMjBmb3JtLnBkZg==",
+      "VAC": "10, Katsina Ala Crescent,Maitama District, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Iran",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": "yes"
+    },
+    {
+      "country": "Iraq",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Ireland",
+      "application form src": "https://www.visas.inis.gov.ie/avats/OnlineHome.aspx",
+      "VAC": "VFS",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Israel",
+      "application form src": "https://embassies.gov.il/abuja/ConsularServices/Documents/Visa%20Form.pdf",
+      "VAC": "Plot 12, Mary Slessor Street Asokoro Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Italy",
+      "application form src": "https://visa.vfsglobal.com/one-pager/italy/nigeria/english/pdf/2020%20IT%20Schengen%20visa%20application%20form.pdf",
+      "VAC": "VFS",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Jamaica",
+      "application form src": "https://cdn.naijagoingabroad.com/wp-content/uploads/20210426151906/jamaica_visa_application_form.pdf",
+      "VAC": "Nicon Plaza, 3rd, 242 Mohammadu Buhari Way, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Japan",
+      "application form src": "https://www.mofa.go.jp/files/000124528.pdf",
+      "VAC": "No. 9 Bobo Street (off Gana Street), Maitama, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Jordan",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Kazakstan",
+      "application form src": "https://www.visakazakhstan.com/tourist-visa/",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Kenya",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": "yes"
+    },
+    {
+      "country": "Kitts and Nevis",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "yes",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Kuwait",
+      "application form src": "https://eservices6.moi.gov.kw/",
+      "VAC": " 24 Yedseram St, Maitama 900271, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Kyrgyzstan",
+      "application form src": "http://www.evisa.e-gov.kg",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Latvia",
+      "application form src": "https://www.visahq.com.ng/sweden/Sweden-Tourist-visa-application.pdf",
+      "VAC": "VFS Sweden",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Lebanon",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": "yes"
+    },
+    {
+      "country": "Lesotho",
+      "application form src": "http://evisalesotho.com/visa-requirements-and-fees/",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Liberia",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "yes",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Libya",
+      "application form src": "",
+      "VAC": "Mark Okoye Cl, Asokoro, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Liechtenstein",
+      "application form src": "",
+      "VAC": "157, Adetokunbo Ademola Crescent Wuse II Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Lithuania",
+      "application form src": "https://visa.vrm.lt/epm/",
+      "VAC": "VFS",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Luxembourg",
+      "application form src": "https://visaonweb.diplomatie.be/",
+      "VAC": "VFS Belgium",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Macau",
+      "application form src": "https://bio.visaforchina.org/LOS2_EN/upload/Attach/mrbj/265048.pdf",
+      "VAC": "Churchgate Plaza, First Floor, Plot 473, /AO Cadastral Zone, Constitution Avenue, Central Business District, FCT Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Macedonia",
+      "application form src": "https://cdn.naijagoingabroad.com/wp-content/uploads/20210426161242/Macedonia_visa_form.pdf",
+      "VAC": "11 River Niger St, Maitama 900271, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Madagascar",
+      "application form src": "https://evisamada.gov.mg/",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": "yes"
+    },
+    {
+      "country": "Malawi",
+      "application form src": "https://www.evisa.gov.mw/",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Malaysia",
+      "application form src": "https://www.vfsglobal.com/Malaysia/Nigeria/pdf/Visa-Application-Form.pdf",
+      "VAC": "VFS",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Maldives",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": "yes"
+    },
+    {
+      "country": "Mali",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "yes",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Malta",
+      "application form src": "https://www.schengenvisainfo.com/wp-content/uploads/2020/02/Schengen-Visa-Application-Form.pdf",
+      "VAC": "VFS",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Marshall Islands",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Mauritania",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": "yes"
+    },
+    {
+      "country": "Mauritius",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": "yes"
+    },
+    {
+      "country": "Micronesia",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "yes",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Mexico",
+      "application form src": "https://cdn.naijagoingabroad.com/wp-content/uploads/20210426164015/Mexico-visa-application-form.pdf",
+      "VAC": "39 Usuma Street Maitama District Abuja Nigeria",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Moldova",
+      "application form src": "https://www.evisa.gov.md/",
+      "VAC": "VFS Finland",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Monaco",
+      "application form src": "https://www.schengenvisainfo.com/wp-content/uploads/2020/02/Schengen-Visa-Application-Form.pdf",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Montserrat",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "yes",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Montenegro",
+      "application form src": "https://cdn.naijagoingabroad.com/wp-content/uploads/20210426165349/CG_obrazac_za_vizu.pdf",
+      "VAC": "11 Rio Negro Cl, Maitama 900271, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Morocco",
+      "application form src": "https://www.consulat.ma/sites/default/files/inline-files/English-francais-formulaireVisa_1.pdf",
+      "VAC": "Lake Chad Cres, Maitama 900271, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Mozambique",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": "yes"
+    },
+    {
+      "country": "Myanmar",
+      "application form src": "evisa-myanmar.net",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Namibia",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": "yes"
+    },
+    {
+      "country": "Nepal",
+      "application form src": "https://nepaliport.immigration.gov.np/online",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Netherlands",
+      "application form src": "https://ng.ambafrance.org/Applying-for-a-French-visa-in-Nigeria",
+      "VAC": "VFS Lagos",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "New Caledonia",
+      "application form src": "https://france-visas.gouv.fr/en_US/web/france-visas/ai-je-besoin-d-un-visa",
+      "VAC": "VFS Lagos",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "New Zealand",
+      "application form src": "https://online.immigration.govt.nz/",
+      "VAC": "VFS Lagos",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Nicaragua",
+      "application form src": "https://cdn.naijagoingabroad.com/wp-content/uploads/20210426171856/nicaragua_visa_application_form.pdf",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Niue",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "yes",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Niger",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "yes",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Norway",
+      "application form src": "https://selfservice.udi.no/en-gb/",
+      "VAC": "VFS",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Oman",
+      "application form src": "https://application.omanonlinevisa.com/application/a1e30b36-a7fe-11eb-94ef-065c3bc2f189.52e6178?option=NG",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Pakistan",
+      "application form src": "https://visa.nadra.gov.pk/tourist-visa/",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Palau",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": "yes"
+    },
+    {
+      "country": "Palestinian",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "yes",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Panama",
+      "application form src": "https://cdn.naijagoingabroad.com/wp-content/uploads/20210428090224/panama-visa-form.pdf",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Paraguay",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Peru",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Philippines",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": "yes"
+    },
+    {
+      "country": "Poland",
+      "application form src": "https://www.schengenvisainfo.com/wp-content/uploads/2020/02/Schengen-Visa-Application-Form.pdf",
+      "VAC": "VFS",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Portugal",
+      "application form src": "https://www.vfsglobal.com/Portugal/Nigeria/pdf/application-for-schengen-visa.pdf",
+      "VAC": "https://www.vfsglobal.com/Portugal/Nigeria/pdf/application-for-schengen-visa.pdf",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Puerto Rico",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Qatar",
+      "application form src": "https://www.qatarevisaonline.com/qatar/nigeria/nigeria",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Romania",
+      "application form src": "http://evisa.mae.ro/",
+      "VAC": "76 Nelson Mandela Street,  Plot 498, Asokoro, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Russian Federation",
+      "application form src": "https://visa.kdmid.ru/PetitionChoice.aspx",
+      "VAC": "Plot 1119, Constitution avenue, Central Business District, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Rwanda",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": "yes"
+    },
+    {
+      "country": "Samoa",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": "yes"
+    },
+    {
+      "country": "Saint Helena",
+      "application form src": "https://evisa.sainthelena.gov.sh/",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Saint Kitts And Nevis",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "yes",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Saint Lucia",
+      "application form src": "http://www.govt.lc/media.govt.lc/www/resources/forms/SaintLuciaVisaApplicationForm.pdf",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Sao Tome And Principe",
+      "application form src": "http://evisa.st/files/VIC_form.doc",
+      "VAC": "10, Queen Elizabeth Street, Asokoro, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Saudi Arabia",
+      "application form src": "https://visa.visitsaudi.com/",
+      "VAC": "6 Orange Street, Maitama 900271, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Senegal",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "yes",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Serbia",
+      "application form src": "http://www.abuja.mfa.gov.rs/",
+      "VAC": "11, Rio Negro Close, off Yedseram Street Maitama District ABUJA",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Seychelles",
+      "application form src": "http://www.ics.gov.sc/downloads/forms",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Sierra Leone",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "yes",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Singapore",
+      "application form src": "https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements/visa-detail-page/nigeria",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Slovakia",
+      "application form src": "https://www.schengenvisainfo.com/wp-content/uploads/2020/02/Schengen-Visa-Application-Form.pdf",
+      "VAC": "VFS",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Slovenia",
+      "application form src": "https://www.schengenvisainfo.com/wp-content/uploads/2020/02/Schengen-Visa-Application-Form.pdf",
+      "VAC": "ifr.mfa.gov.hu",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Solomon Islands",
+      "application form src": "https://www.un.int/solomonislands/solomonislands/visa-information",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Somalia",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": "yes"
+    },
+    {
+      "country": "South Africa",
+      "application form src": "https://cdn.naijagoingabroad.com/wp-content/uploads/20210428112547/short-term-visa-application-form-1.pdf",
+      "VAC": "VFS",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Spain",
+      "application form src": "https://nigeria.blsspainvisa.com/short_term_visa_tourism.php",
+      "VAC": "BLS",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Sri Lanka",
+      "application form src": "https://e-visa.ie/",
+      "VAC": "1346, Agulu Lake Street, Cadastral Zone A-05, Maitama Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Sudan",
+      "application form src": "https://embrssng.org/wp-content/uploads/2017/11/visa-form-1.pdf",
+      "VAC": "16, Lake Chad Crescent, Off IBB Way, Maitama, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Suriname",
+      "application form src": "https://suriname.vfsevisa.com/suriname/online/register",
+      "VAC": "VFS",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Swaziland",
+      "application form src": "http://www.gov.sz/index.php/application-forms",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Sweden",
+      "application form src": "https://www.schengenvisainfo.com/wp-content/uploads/2020/02/Schengen-Visa-Application-Form.pdf",
+      "VAC": "VFS",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Switzerland",
+      "application form src": "https://www.schengenvisainfo.com/wp-content/uploads/2020/02/Schengen-Visa-Application-Form.pdf",
+      "VAC": "15, Onisiwo Road (former Probyn Road) Ikoyi",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Syria",
+      "application form src": "",
+      "VAC": "27 Joel Ogunnaike - GRA - Ikeja - Lagos",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Taiwan",
+      "application form src": "https://visawebapp.boca.gov.tw/BOCA_EVISA/",
+      "VAC": "No 23A,Thompson Avenue,Ikoyi,Lagos",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Tanzania",
+      "application form src": "https://eservices.immigration.go.tz/",
+      "VAC": "No 21, Yedseram Street, off IBB Way Opposite Cubana Suites (formerly ALGON House), Maitama, P.M.B 5125, Wuse Abuja, Nigeria",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Thailand",
+      "application form src": "https://abuja.thaiembassy.org/th/page/download",
+      "VAC": "34 Rhine Street, Maitama, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Togo",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "yes",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Timor-Leste",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": "yes"
+    },
+    {
+      "country": "Trinidad And Tobago",
+      "application form src": "https://cdn.naijagoingabroad.com/wp-content/uploads/20210428115738/visa_form.pdf",
+      "VAC": "7 Casablanca Street (Off Nairobi Street, Off Aminu Kano Crescent), Wuse II, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Tunisia",
+      "application form src": "https://www.diplomatie.gov.tn/en/nc/quick-access/e-services/",
+      "VAC": "11 Kainji Cres, Maitama 900271, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Turkey",
+      "application form src": "https://application.visasturkey.com/",
+      "VAC": "333 Diplomatic Dr, Central Business Dis, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Tuvalu",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": "yes"
+    },
+    {
+      "country": "Uganda",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": "yes"
+    },
+    {
+      "country": "Ukraine",
+      "application form src": "https://nigeria.mfa.gov.ua/en/consular-issues/visas",
+      "VAC": "Plot 894, Olu Awotesu Street, Jabi District, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "United Arab Emirates",
+      "application form src": "Plot 110, Admiral Ayinla Way, Opposite Treasure Garden Estate, 3rd Roundabout, Lekki-Epe Expressway, Lekki Phase I, Lagos Nigeria",
+      "VAC": "VFS",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "United Kingdom",
+      "application form src": "https://www.gov.uk/standard-visitor-visa/apply",
+      "VAC": "TLS",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "United States",
+      "application form src": "https://www.ustraveldocs.com/ng/",
+      "VAC": "2 Walter Carrington Cres, Victoria Island, Lagos",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Uruguay",
+      "application form src": "https://cdn.naijagoingabroad.com/wp-content/uploads/20210428122748/Visa-application-submit-20-business-days-before-trip.pdf",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Uzbekistan",
+      "application form src": "http://evisa.mfa.uz/evisa_en/",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Vanatu",
+      "application form src": "https://immigration.gov.vu/index.php/application-form/manual-registration",
+      "VAC": "",
+      "Visa Free": "yes",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Venezuela",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Viet Nam",
+      "application form src": "https://evisa.xuatnhapcanh.gov.vn/",
+      "VAC": "9 River Niger street, Off Danube street, Maitama, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Yemen",
+      "application form src": "",
+      "VAC": "",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Zambia",
+      "application form src": "https://eservices.zambiaimmigration.gov.zm/",
+      "VAC": "Plot 351 Mission Road, Garki, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    },
+    {
+      "country": "Zimbabwe",
+      "application form src": "https://www.evisa.gov.zw/",
+      "VAC": "Euphrates Cres, Wuse 900271, Abuja",
+      "Visa Free": "",
+      "Visa on Arrival": ""
+    }
+  ]
+}
